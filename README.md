@@ -1,1 +1,2 @@
 # odin-recipes
+At this stage, this project is meant to both test and show the HTML skills I have learnt up till this point in The Odin Project's Foundation learning path. Successful completion should showcase a basic understanding of HTML, Git, and GitHub.
