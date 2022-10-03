@@ -1,2 +1,2 @@
 # odin-recipes
-At this stage, this project is meant to both test and show the HTML skills I have learnt up till this point in The Odin Project's Foundation learning path. Successful completion should showcase a basic understanding of HTML, Git, and GitHub.
+At this stage, the project now combines what I've learnt from the HTML section of Foundations as well as the CSS Foundations lesson. There's still a lot I'd like to do to make the recipe page look good, but for now I just wanted to make sure I could get colours working, text formatted and images aligned. Considering using this as an ongoing practice project going forward even if The Odin Project never assigns any practice work to it again.
